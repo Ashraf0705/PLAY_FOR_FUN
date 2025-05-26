@@ -1,0 +1,10 @@
+// frontend/jsconfig.json
+{
+  "compilerOptions": {
+    "baseUrl": ".", // Defines the base directory for resolving non-relative module names
+    "paths": {
+      "@/*": ["./src/*"] // Allows imports like '@/components/MyComponent'
+    }
+  },
+  "exclude": ["node_modules", ".next"] // Good practice to exclude these
+}

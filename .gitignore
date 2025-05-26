@@ -1,0 +1,13 @@
+# playforfun-website/.gitignore
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor specific
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln
