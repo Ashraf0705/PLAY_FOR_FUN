@@ -89,4 +89,10 @@ body {
            border border-gray-600 hover:border-indigo-500
            transition-all duration-300 ease-in-out shadow-sm hover:shadow-md;
   }
+  .how-to-step {
+    @apply bg-gray-700/30 p-5 rounded-lg border border-gray-600/50 shadow-md;
+  }
+  .how-to-step-title {
+    @apply text-xl md:text-2xl font-semibold text-indigo-300 mb-3 flex items-center;
+  }
 }
