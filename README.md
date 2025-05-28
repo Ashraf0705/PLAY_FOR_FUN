@@ -12,7 +12,7 @@ The goal is to provide a simple, fun, and engaging platform focused on the joy o
 
 ## Live Application
 
-*   **Frontend URL:** [https://play-for-fun.vercel.app](https://play-for-fun.vercel.app)
+*   **URL:** [https://play-for-fun.vercel.app](https://play-for-fun.vercel.app)
 
 ## Features (Version 1.0)
 
