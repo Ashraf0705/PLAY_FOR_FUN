@@ -8,7 +8,7 @@ PlayForFun allows a designated "Space Admin" to create a private prediction leag
 
 The goal is to provide a simple, fun, and engaging platform focused on the joy of the game and friendly rivalry, without the complexities of typical betting applications.
 
-**Co-created with passion by Shaik Mohammed Ashraf & his AI Friend.**
+
 
 ## Live Application
 
